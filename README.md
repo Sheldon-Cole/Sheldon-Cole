@@ -1,6 +1,6 @@
 Hi, I’m @Sheldon-Cole
 
-I'm currently a Security Technician for a school district that doubles as the backup Network Administrator.
+I'm currently a Security Technician for a school district and double as the backup Network Administrator.
 
 Certifications:
 - CCNA
